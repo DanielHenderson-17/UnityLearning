@@ -8,3 +8,5 @@ Project Start Creating
 
 Real Time Creation
 Working with GameObjects in a 3d scene
+
+added components
